@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.box {
+  width: 600px;
+  height: 200px;
+  margin: 100px auto;
+}
+.item1 {
+background-color: aqua;
+margin-bottom: 100px;
+}
+.item2 {
+background-color: brown;
+margin-top: 100px;
+}
